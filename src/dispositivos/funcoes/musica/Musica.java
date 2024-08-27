@@ -1,4 +1,4 @@
-package musica;
+package dispositivos.funcoes.musica;
 
 public interface Musica {
     void tocarMusica();

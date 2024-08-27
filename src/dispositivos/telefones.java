@@ -1,6 +1,6 @@
 package dispositivos;
 
-import iphone.Iphone;
+import dispositivos.iphone.Iphone;
 
 public class telefones {
     public static void main(String[] args){

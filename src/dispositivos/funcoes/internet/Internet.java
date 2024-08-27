@@ -1,4 +1,4 @@
-package internet;
+package dispositivos.funcoes.internet;
 
 public interface Internet{
     void acessar();

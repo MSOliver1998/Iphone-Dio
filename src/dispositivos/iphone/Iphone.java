@@ -1,8 +1,8 @@
-package iphone;
+package dispositivos.iphone;
 
-import internet.Internet;
-import musica.Musica;
-import telefone.Telefone;
+import dispositivos.funcoes.internet.Internet;
+import dispositivos.funcoes.musica.Musica;
+import dispositivos.funcoes.telefone.Telefone;
 
 public class Iphone implements Telefone,Internet,Musica {
     
